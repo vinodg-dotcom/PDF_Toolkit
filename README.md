@@ -33,7 +33,7 @@ A desktop-based PDF management application developed using Python and CustomTkin
 Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Run the Application
